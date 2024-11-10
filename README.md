@@ -5,6 +5,10 @@ Un datapack pour Minecraft proposant divers outils pour le mode créatif.
 
 Contrôle de la météo et du soleil :
 ![](https://github.com/Epitygmata/creative-util/blob/main/gallery/weather-daytime.gif)
+Modification des enchantements :
+![](https://github.com/Epitygmata/creative-util/blob/main/gallery/riptide.gif)
+Nourriture personnalisée :
+![](https://github.com/Epitygmata/creative-util/blob/main/gallery/eating.gif)
 
 ## Installation
 
