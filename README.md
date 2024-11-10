@@ -14,9 +14,11 @@ Du à une limitation de la librairie utilisée pour afficher un menu, attaquer e
  - [Invisible Minecarts par Cloud Wolf](https://www.youtube.com/watch?v=gZYxhHAN-Ic)
  - [GUI Framework par Cloud Wolf](https://www.youtube.com/watch?v=Sxnaah2SPzw)
  - [Yellow Shulker Box par Smithed](https://wiki.smithed.dev/guides/yellow-shulker-box/)
+ <br>
 Créé par [@darukshock](https://github.com/Darukshock)
 ## A faire :
  - Debug de tout
+ - Publier une sortie
  - Warps
  - Contrôle de la worldborder
  - Guide détaillé du menu avec GIFs ici.
