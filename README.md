@@ -15,6 +15,7 @@ Du à une limitation de la librairie utilisée pour afficher un menu, attaquer e
  - [GUI Framework par Cloud Wolf](https://www.youtube.com/watch?v=Sxnaah2SPzw)
  - [Yellow Shulker Box par Smithed](https://wiki.smithed.dev/guides/yellow-shulker-box/)
  <br>
+
 Créé par [@darukshock](https://github.com/Darukshock)
 
 ## A faire :
