@@ -92,7 +92,6 @@ data modify entity @s data.page.enchant_selector set value [\
     "id": "minecraft:trident",\
     "components": {\
       "minecraft:item_name": '"Trident"',\
-      "minecraft:rarity": "uncommon",\
       "minecraft:custom_data": {\
         "util.ui_item": {\
           "cmd": "execute on passengers run function util:ui/menu/settings/equipment/enchantments/select"\

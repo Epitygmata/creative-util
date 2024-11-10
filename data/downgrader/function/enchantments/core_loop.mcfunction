@@ -30,5 +30,6 @@ data modify storage downgrader:temp raw set string storage downgrader:temp raw 1
 data remove storage downgrader:temp char
 # get char
 execute store success score next downgrader.bool run data modify storage downgrader:temp char set string storage downgrader:temp raw 0 1
+#! raw == {storage downgrader:temp raw}
 # loop if char getter was successful
 execute if score next downgrader.bool matches 1 run function downgrader:enchantments/core_loop

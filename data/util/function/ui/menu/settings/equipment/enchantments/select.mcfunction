@@ -3,6 +3,7 @@
 #! select
 execute store result score ui.slot util.val run data get storage util:ui in[0].Slot
 # thank god I made this library
+#! in = {storage util:ui in[0].components.minecraft:enchantments}
 function downgrader:enchantments with storage util:ui in[0].components.minecraft:enchantments
 data modify storage util:temp arr set from storage downgrader:temp out
 # enchantment selector but in storage

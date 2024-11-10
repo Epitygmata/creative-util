@@ -12,6 +12,10 @@ Un datapack pour Minecraft proposant divers outils pour le mode créatif.
 ### Nourriture personnalisée
 ![](https://github.com/Epitygmata/creative-util/blob/main/gallery/eating.gif)
 
+### Gamerules
+![](https://github.com/Epitygmata/creative-util/blob/main/gallery/creeper.gif)
+
+
 ## Installation
 
 1) Téléchargez la dernière version depuis la section "releases" *(actuellement aucune n'est présente)*
