@@ -1,0 +1,1 @@
+$data modify storage util:ui clicked set from storage util:ui mask[{Slot:$(Slot)b}]

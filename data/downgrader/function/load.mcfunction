@@ -1,0 +1,1 @@
+scoreboard objectives add downgrader.bool dummy
