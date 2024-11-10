@@ -4,7 +4,7 @@ Un datapack pour Minecraft proposant divers outils pour le mode créatif.
 ## Outils
 
 Contrôle de la météo et du soleil :
-![](https://github.com/Epitygmata/creative-util/gallery/weather-daytime.gif)
+![](https://github.com/Epitygmata/creative-util/blob/main/gallery/weather-daytime.gif)
 
 ## Installation
 
