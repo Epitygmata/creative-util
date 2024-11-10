@@ -1,5 +1,6 @@
 #> from:
 # AS the marker
+#! select
 execute store result score ui.slot util.val run data get storage util:ui in[0].Slot
 # thank god I made this library
 function downgrader:enchantments with storage util:ui in[0].components.minecraft:enchantments
