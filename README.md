@@ -16,6 +16,7 @@ Du à une limitation de la librairie utilisée pour afficher un menu, attaquer e
  - [Yellow Shulker Box par Smithed](https://wiki.smithed.dev/guides/yellow-shulker-box/)
  <br>
 Créé par [@darukshock](https://github.com/Darukshock)
+
 ## A faire :
  - Debug de tout
  - Publier une sortie
